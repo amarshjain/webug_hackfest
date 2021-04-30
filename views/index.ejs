@@ -1,0 +1,30 @@
+<%- include('./partials/header') %>
+
+<div class="container">
+
+    <div class="row height d-flex justify-content-center align-items-center">
+
+        <div class="col-md-6">
+
+            <div class="form">  <i class="fas fa-bug"></i>
+
+              <form id='searchform' action='/' method="POST">
+
+                <div class="input-group mb-3">
+
+                  <input name="search" type="text" class="form-control form-input" placeholder="Enter website URL or IPv4 Address">
+  
+                  <button class="btn-lg btn-success" type="button" aria-expanded="false">SCAN</button>       
+                  
+                </div>
+                 
+              </form>
+
+             </div>
+
+        </div>
+        
+    </div>
+
+
+<%- include('./partials/footer') %>

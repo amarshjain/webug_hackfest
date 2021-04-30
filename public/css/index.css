@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(90, 23, 23);
+    /* background-image: url("https://mewallpaper.com/thumbnail/abstract/7618-low-poly-dark-black-background-free-wallpaper-hq.jpg");
+    background-repeat: no-repeat;
+    background-image: cover;
+    background-attachment: fixed; */
+  }
+  
+  .height {
+    height: 100vh
+  }
+  
+  .form {
+    position: relative
+  }
+  
+  .form .fa-bug {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: #9ca3af
+  }
+  
+  .form span {
+    position: absolute;
+    right: 17px;
+    top: 13px;
+    padding: 2px;
+    border-left: 1px solid #d1d5db
+  }
+  
+  .left-pan {
+    padding-left: 7px
+  }
+  
+  .left-pan i {
+    padding-left: 10px
+  }
+  
+  .form-input {
+    height: 55px;
+    text-indent: 33px;
+    border-radius: 10px
+  }
+  
+  .form-input:focus {
+    box-shadow: none;
+    border: none
+  }
+  
+  .accordion-item{
+    background-color: rgb(255, 255, 255);
+  }
+  
