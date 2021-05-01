@@ -1,0 +1,8 @@
+
+
+
+type: 'auxiliary',
+name: 'Openbravo ERP XXE Arbitrary File Read',
+fullname: 'auxiliary/admin/http/openbravo_xxe',
+rank: 'normal',
+disclosuredate: '2013-10-30'
